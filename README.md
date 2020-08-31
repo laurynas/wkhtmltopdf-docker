@@ -1,4 +1,4 @@
-# Lightweight wkhtmltopdf Node.js wrapper service for Docker
+# Lightweight wkhtmltopdf Node.js wrapper for Docker
 
 Based on [madnight/docker-alpine-wkhtmltopdf](https://hub.docker.com/r/madnight/docker-alpine-wkhtmltopdf/) image.
 

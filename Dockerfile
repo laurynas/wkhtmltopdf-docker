@@ -3,7 +3,7 @@ MAINTAINER Laurynas Butkus <laurynas.butkus@gmail.com>
 
 RUN apk add --update nodejs
 
-USER 80:80
+USER 33:33
 EXPOSE 8080
 
 WORKDIR /app
